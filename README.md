@@ -8,7 +8,7 @@ Crework is different because of the following reasons:
 
 1. We believe that education should be free, hence all the knowledge and resources we share are free or are at minimal cost. We ourselves don't charge any money for providing resources/guidance to students. 
 
-2. We are super cool because we are nerds. We are people who started in a field other than computer science but finally ended up spending 60% of our day either writing code or reading other people's code. Wanna be like us? Mail us [here](creworkgroup@gmail.com) anytime.
+2. We are super cool because we are nerds. We are people who started in a field other than computer science but finally ended up spending 60% of our day either writing code or reading other people's code. Wanna be like us? Mail us [here](mailto:creworkgroup@gmail.com) anytime.
 
 3. All the resources have been compiled by our team on the basis of our own experience. These are the resources that we used ourselves to gain the knowledge of Machine Learning and AI. We are constantly learning so the resources also get updated time to time. 
 
