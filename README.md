@@ -1,6 +1,6 @@
 # Machine Learning Path
 
-Getting started with any new field could be a really overwhelming task. Specially if the field is Machine Learning or Data Science. There are thousands and thousands resources of Machine Learning. People write hundreds of blogs daily about the path one should follow to become a Data Scientist in 6 months, 3 months, 1 month and even 1 day. 
+Getting started with any new field could be a really overwhelming task. Specially if the field is Machine Learning or Data Science. There are thousands and thousands of resources of Machine Learning on the internet. People write hundreds of blogs daily about the path one should follow to become a Data Scientist in 6 months, 3 months, 1 month and even 1 day. 
 
 So, how is this one different? 
 
