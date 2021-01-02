@@ -14,7 +14,7 @@ Crework is different because of the following reasons:
 
 Now, after the introductions, let's get to the main agenda. From where should you start? 
 
-### The Prerequisites:
+### The Prerequisites
 
 The most important prerequisite for Machine Learning is Mathematics. Ever heard the term probability? Do you know what a hypothesis is? Have you ever calculated the slope of a curve? 
 
