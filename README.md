@@ -21,9 +21,36 @@ The most important prerequisite for Machine Learning is Mathematics. Ever heard 
 If you said Yes to any of the question above, you are ready to start. The topics would be
 
 1. Statistics and Probability
-2. Linear Algebra
-3. Calculus
+2. Linear Algebra 
+3. Calculus 
 
 Resources: [Mathematics for Machine Learning](https://github.com/Crework/Mathematics-for-Machine-Learning)
 
+Pro Tip: If you think you have intermediate knowledge of all the topics mentioned above, you can skip the maths part for now and come back to it later as your work demands. 
+
 ### The Introduction
+
+Getting started with Machine Learning is overwhelming due to two reasons:
+
+1. The field is competitive, there are lots of people doing ML at different levels.
+2. It is vast and almost never ending, you might feel like you will never learn enough. 
+
+But we have the solution: START NOW!!!!!
+
+Yes, so here is what you need to do roughly:
+
+1. Start Python, learn all data structures of python. 
+2. Learn important libraries like Pandas, Numpy, Matplotlib and Seaborn.
+3. Start any theory video lectures course from Youtube or Coursera and complete it. 
+4. Learn about Exploratory Data Analysis (EDA) and Feature Engineering
+5. Start playing with data and doing projects. 
+
+Damn, that sounds like a lot. I won't lie to you, it is. But as you know "It is what it is", so you don't have a choice like we didn't. You must be wondering about the resources, don't worry, we have got you covered. 
+
+Resources: [Everything you need to learn Mahchine Learning](https://github.com/Crework/ML-Resources)
+
+
+### Deep Learning (but how deep?)
+
+
+****COMING SOON****
