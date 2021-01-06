@@ -16,6 +16,8 @@ Now, after the introductions, let's get to the main agenda. From where should yo
 
 ### The Prerequisites
 
+#### Mathematics
+
 The most important prerequisite for Machine Learning is Mathematics. Ever heard the term probability? Do you know what a hypothesis is? Have you ever calculated the slope of a curve? 
 
 If you said Yes to any of the question above, you are ready to start. The topics would be
@@ -27,6 +29,18 @@ If you said Yes to any of the question above, you are ready to start. The topics
 Resources: [Mathematics for Machine Learning](https://github.com/Crework/Mathematics-for-Machine-Learning)
 
 Pro Tip: If you think you have intermediate knowledge of all the topics mentioned above, you can skip the maths part for now and come back to it later as your work demands. 
+
+#### Python
+
+Even if you haven't coded a single "Hello World" before this, we have got you covered. 
+
+If you want to do Machine Learning, Python is the most popular and useful language for that. Do one out of these two courses given below.
+
+[Introduction to Python Programming by MIT](https://www.youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d)
+
+[Introduction to Computer Science with Python by MIT (Class Lecture Videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+
+Now, as we are done with the prerequisites, let's get to the good stuff. 
 
 ### The Introduction
 
