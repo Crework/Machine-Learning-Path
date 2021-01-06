@@ -14,7 +14,7 @@ Crework is different because of the following reasons:
 
 Now, after the introductions, let's get to the main agenda. From where should you start? 
 
-### The Prerequisites
+## The Prerequisites
 
 #### Mathematics
 
@@ -42,7 +42,7 @@ If you want to do Machine Learning, Python is the most popular and useful langua
 
 Now, as we are done with the prerequisites, let's get to the good stuff. 
 
-### The Introduction
+## Introduction to Machine Learning
 
 Getting started with Machine Learning is overwhelming due to two reasons:
 
@@ -64,7 +64,7 @@ Damn, that sounds like a lot. I won't lie to you, it is. But as you know "It is 
 Resources: [Everything you need to learn Mahchine Learning](https://github.com/Crework/ML-Resources)
 
 
-### Deep Learning (but how deep?)
+## Deep Learning (but how deep?)
 
 
-****COMING SOON****
+*COMING SOON*
