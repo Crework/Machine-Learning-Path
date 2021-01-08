@@ -63,7 +63,7 @@ Yes, so here is what you need to do roughly:
 
 Damn, that sounds like a lot. We won't lie to you, it is. But as you know "It is what it is", so you don't have a choice just like we didn't. 
 
-You must be wondering about the resources, don't worry, we have got you covered. 
+You must be wondering about the resources, well, here they are: 
 
 Resources: [Learn Everything in Machine Learning](https://github.com/Crework/ML-Resources)
 
