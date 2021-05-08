@@ -41,6 +41,8 @@ If you want to do Machine Learning, Python is the most popular and useful langua
 
 [Introduction to Computer Science with Python by MIT (Class Lecture Videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
+Or if you want more options, you can see: [Free Python Resources](https://github.com/Crework/Python-Resources)
+
 Now, as we are done with the prerequisites, let's get to the good stuff. 
 
 
